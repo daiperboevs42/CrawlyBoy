@@ -1,0 +1,13 @@
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\bin\Debug\netcoreapp3.1\WebCrawlerV1.exe
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\bin\Debug\netcoreapp3.1\WebCrawlerV1.deps.json
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\bin\Debug\netcoreapp3.1\WebCrawlerV1.runtimeconfig.json
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\bin\Debug\netcoreapp3.1\WebCrawlerV1.runtimeconfig.dev.json
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\bin\Debug\netcoreapp3.1\WebCrawlerV1.dll
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\bin\Debug\netcoreapp3.1\WebCrawlerV1.pdb
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.csprojAssemblyReference.cache
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.AssemblyInfoInputs.cache
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.AssemblyInfo.cs
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.csproj.CoreCompileInputs.cache
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.dll
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.pdb
+C:\Users\WøbbePC\source\repos\WebCrawlerV1\WebCrawlerV1\obj\Debug\netcoreapp3.1\WebCrawlerV1.genruntimeconfig.cache
